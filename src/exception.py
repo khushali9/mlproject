@@ -1,4 +1,7 @@
 import sys
+import logging
+from src.logger import logging 
+#to able to save in log file
 def error_message_detail(error,error_detail:sys):
     """
     This function returns a detailed error message.
