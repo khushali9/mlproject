@@ -2,4 +2,9 @@ pandas
 numpy
 scikit-learn
 seaborn
--e .
+matplotlib
+catboost
+xgboost
+dill
+#-e .
+#comment it out to creating package again and  again.
