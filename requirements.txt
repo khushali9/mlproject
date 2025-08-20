@@ -6,5 +6,6 @@ matplotlib
 catboost
 xgboost
 dill
+Flask
 #-e .
 #comment it out to creating package again and  again.
